@@ -1,6 +1,6 @@
-# materi
+# My Favorite Artis
 
-A new Flutter project.
+Project Flutter yang menggunakan aplikasi android studio.
 
 ## Getting Started
 
